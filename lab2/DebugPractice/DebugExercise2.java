@@ -16,7 +16,6 @@ public class DebugExercise2 {
         return max;
     }
 
-
     /** Returns the sum of a and b. Do not step into this function. 
       * This function may have a bug, but if it does, you should find it
       * by stepping over, not into. */    
